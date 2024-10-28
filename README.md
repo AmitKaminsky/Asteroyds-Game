@@ -30,3 +30,7 @@ During the game, power-ups spawn to aid your survival:
 1. **Start the Game**: Choose a difficulty mode and customize your spaceship.
 2. **Destroy Asteroids**: Shoot at asteroids to break them down into smaller ones until they disappear.
 3. **Stay Alive**: Avoid asteroid collisions and deflections from walls while using power-ups to your advantage.
+
+# Screenshots
+
+![Game menu](Screenshots/gameplay_screenshot.png)
