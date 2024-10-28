@@ -33,4 +33,5 @@ During the game, power-ups spawn to aid your survival:
 
 # Screenshots
 
-![Game menu](Screenshots/gameplay_screenshot.png)
+![Game menu](Screenshots/Game_menu.png)
+![Game play](Screenshots/Gameplay.png)
